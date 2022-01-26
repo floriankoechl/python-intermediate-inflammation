@@ -2,13 +2,13 @@ attrs==21.4.0
 coverage==5.5
 cycler==0.10.0
 importlib-metadata==2.1.3
+-e git+git@github.com:floriankoechl/python-intermediate-inflammation.git@48ccea369b37c7f7796acd9e3cf70adef26263ca#egg=inflammation_analysis
 iniconfig==1.1.1
 kiwisolver==1.1.0
 matplotlib==3.0.3
 numpy==1.18.5
 packaging==20.9
 pathlib2==2.3.6
-pkg-resources==0.0.0
 pluggy==0.13.1
 py==1.11.0
 pyparsing==2.4.7
